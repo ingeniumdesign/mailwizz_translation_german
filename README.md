@@ -12,14 +12,8 @@ Dieses Repository enthält die deutsche Übersetzung für die MailWizz EMA-Anwen
    [https://github.com/ingeniumdesign/mailwizz_translation_german](https://github.com/ingeniumdesign/mailwizz_translation_german)
 2. Klicke auf **Code > Download ZIP**, um die Dateien herunterzuladen.
 
-### ZIP-Datei vorbereiten
-1. Entpacke die heruntergeladene ZIP-Datei.
-2. Navigiere in das Verzeichnis `de_de`.
-3. Erstelle eine neue ZIP-Datei des Ordners `de_de`.
-    - Beispiel: `de_de.zip`.
-
 ### Sprachpaket hochladen
-1. Melde dich im MailWizz-Adminbereich an.
+1. Melde dich in deinem MailWizz-Adminbereich an.
 2. Gehe zu **Erweiterung > Sprachen > Sprach-Paket hochladen**.
 3. Lade die erstellte `de_de.zip`-Datei hoch.
 
@@ -28,17 +22,21 @@ Dieses Repository enthält die deutsche Übersetzung für die MailWizz EMA-Anwen
 - Lösche vorher die bestehende Sprache, falls bereits eine deutsche Übersetzung vorhanden ist:
     - Gehe zu **Einstellungen > Übersetzungen > Sprachen verwalten**.
     - Wähle die deutsche Sprache aus und lösche sie.
+    - Da die Sprache wohl nicht richtig überschrieben wird.
 
 ### Sprache aktivieren
 1. Gehe zu **Einstellungen > Übersetzungen > Sprachen verwalten**.
 2. Aktiviere Deutsch als Standardsprache oder füge sie als zusätzliche Sprache hinzu.
+3. Gehe dann in Deine Benutzer-Einstellungen und wähle Deutsch als Sprache aus.
 
 ---
 
 ## Anpassungen und Beiträge
 
 ### Anpassungen
-Du kannst die Übersetzungsdateien direkt bearbeiten, bevor du die ZIP-Datei erstellst.
+- Erstelle gerne im Github Repository ein neues Ticket, wenn du Anpassungen oder neue Übersetzungen benötigst.
+- Oder ein Pull Request, wenn du bereits eine Übersetzung erstellt hast.
+- Durch eine neue MailWizz-Version kann es sein, dass die Übersetzungen nicht mehr aktuell sind. Gerne kannst du auch hier ein Ticket erstellen, damit ich die Übersetzungen aktualisieren kann.
 
 ### Beiträge
 - Pull Requests für Verbesserungen oder neue Übersetzungen sind willkommen.
