@@ -1,7 +1,7 @@
 # MailWizz Deutsche Übersetzung - Anleitung
 
 ## Überblick
-Dieses Repository enthält die deutsche Übersetzung für die MailWizz EMA-Anwendung. Die Übersetzungen decken verschiedene Module und Kategorien der Anwendung ab.
+Dieses Repository enthält die deutsche Übersetzung für die MailWizz EMA-Anwendung - Version 2.6.7. Die Übersetzungen decken verschiedene Module und Kategorien der Anwendung ab.
 
 ---
 
