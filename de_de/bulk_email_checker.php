@@ -16,5 +16,5 @@ if (!defined('MW_PATH')) {
  * @since 1.1
  */
 return array (
-  'Bulk Email Checker' => 'Bulk Email Checker',
+    'Bulk Email Checker' => 'Massen-E-Mail-Prüfer',
 );
