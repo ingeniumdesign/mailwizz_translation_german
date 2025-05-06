@@ -1,0 +1,13 @@
+.well-known
+.DS_Store
+.idea
+.ddev
+node_modules
+npm-debug.log
+bower_components
+dist
+.sass-cache
+.awspublish*
+config.json
+*.LCK
+Thumbs.db
