@@ -57,5 +57,19 @@ Dieses Repository enthält die deutsche Übersetzung für die MailWizz EMA-Anwen
 
 ---
 
+### Agentur
+
+**INGENIUMDESIGN**  
+TYPO3 – Internetagentur  
+65510 Idstein  
+[https://www.ingeniumdesign.de/](https://www.ingeniumdesign.de/)  
+info@ingeniumdesign.de
+
+### Danke / Donate / Spenden
+
+- **PayPal:** [paypal.me/INGENIUMDESIGN](https://www.paypal.me/INGENIUMDESIGN/)
+
+---
+
 ## Lizenz
 Dieses Projekt steht unter der MailWizz-Lizenz. Weitere Informationen findest du unter [MailWizz Lizenz](https://www.mailwizz.com/license/).
