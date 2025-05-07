@@ -16,16 +16,16 @@ if (!defined('MW_PATH')) {
  * @since 1.1
  */
 return array (
-  'View notes for {name}' => 'View notes for {name}',
-  'Notes' => 'Notes',
-  'Note' => 'Note',
-  'Created by' => 'Created by',
-  'Customer' => 'Customer',
-  'Title' => 'Title',
-  'View notes' => 'View notes',
-  'Create new note' => 'Create new note',
-  'Your note contents. Please keep in mind that it will be encrypted' => 'Your note contents. Please keep in mind that it will be encrypted',
-  'Update note' => 'Update note',
-  'Create new note for {name}' => 'Create new note for {name}',
-  'Update note for {name}' => 'Update note for {name}',
+  'View notes for {name}' => 'Notizen für {name} anzeigen',
+  'Notes' => 'Notizen',
+  'Note' => 'Notiz',
+  'Created by' => 'Erstellt von',
+  'Customer' => 'Kunde',
+  'Title' => 'Titel',
+  'View notes' => 'Notizen anzeigen',
+  'Create new note' => 'Neue Notiz erstellen',
+  'Your note contents. Please keep in mind that it will be encrypted' => 'Der Inhalt Ihrer Notiz. Bitte beachten Sie, dass er verschlüsselt wird',
+  'Update note' => 'Notiz aktualisieren',
+  'Create new note for {name}' => 'Neue Notiz für {name} erstellen',
+  'Update note for {name}' => 'Notiz für {name} aktualisieren',
 );

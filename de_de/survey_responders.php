@@ -16,14 +16,14 @@ if (!defined('MW_PATH')) {
  * @since 1.1
  */
 return array (
-  'Responders' => 'Responders',
-  'Unique ID' => 'Unique ID',
-  'Your survey responders' => 'Your survey responders',
-  'Survey responders' => 'Survey responders',
-  'Add a new responder to your survey.' => 'Add a new responder to your survey.',
-  'You are not allowed to edit responders at this time!' => 'You are not allowed to edit responders at this time!',
-  'Update existing survey responder.' => 'Update existing survey responder.',
-  'Your survey responder was successfully deleted!' => 'Your survey responder was successfully deleted!',
-  'Found {count} responders.' => 'Found {count} responders.',
-  'Sorry, but there are no responders to show right now.' => 'Sorry, but there are no responders to show right now.',
+    'Responders' => 'Teilnehmer',
+    'Unique ID' => 'Eindeutige ID',
+    'Your survey responders' => 'Ihre Umfrageteilnehmer',
+    'Survey responders' => 'Umfrageteilnehmer',
+    'Add a new responder to your survey.' => 'Fügen Sie Ihrer Umfrage einen neuen Teilnehmer hinzu.',
+    'You are not allowed to edit responders at this time!' => 'Sie dürfen Teilnehmer derzeit nicht bearbeiten!',
+    'Update existing survey responder.' => 'Vorhandenen Umfrageteilnehmer aktualisieren.',
+    'Your survey responder was successfully deleted!' => 'Ihr Umfrageteilnehmer wurde erfolgreich gelöscht!',
+    'Found {count} responders.' => '{count} Teilnehmer gefunden.',
+    'Sorry, but there are no responders to show right now.' => 'Entschuldigung, es gibt derzeit keine Teilnehmer anzuzeigen.',
 );

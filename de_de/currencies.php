@@ -16,14 +16,14 @@ if (!defined('MW_PATH')) {
  * @since 1.1
  */
 return array (
-  'View currencies' => 'View currencies',
-  'Currencies' => 'Currencies',
-  'Create new currency' => 'Create new currency',
-  'Update currency' => 'Update currency',
-  'Currency' => 'Currency',
+  'View currencies' => 'Währungen anzeigen',
+  'Currencies' => 'Währungen',
+  'Create new currency' => 'Neue Währung erstellen',
+  'Update currency' => 'Währung aktualisieren',
+  'Currency' => 'Währung',
   'Name' => 'Name',
   'Code' => 'Code',
-  'Value' => 'Value',
-  'Is default' => 'Is default',
-  'Unrecognized currecy code!' => 'Unrecognized currecy code!',
+  'Value' => 'Wert',
+  'Is default' => 'Ist Standard',
+  'Unrecognized currecy code!' => 'Nicht erkannter Währungscode!',
 );

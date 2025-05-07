@@ -16,5 +16,5 @@ if (!defined('MW_PATH')) {
  * @since 1.1
  */
 return array (
-  'There are no results matching your search!' => 'There are no results matching your search!',
+  'There are no results matching your search!' => 'Es gibt keine Ergebnisse, die Ihrer Suche entsprechen!',
 );

@@ -16,11 +16,11 @@ if (!defined('MW_PATH')) {
  * @since 1.1
  */
 return array (
-  'Payment gateways' => 'Payment gateways',
+  'Payment gateways' => 'Zahlungsgateways',
   'Name' => 'Name',
-  'Description' => 'Description',
+  'Description' => 'Beschreibung',
   'Status' => 'Status',
-  'Sort order' => 'Sort order',
-  'Gateway detail page' => 'Gateway detail page',
-  'The payment gateways are implemented as extensions, you\'ll want to enable them from the extensions area first and then manage them from here.' => 'The payment gateways are implemented as extensions, you\'ll want to enable them from the extensions area first and then manage them from here.',
+  'Sort order' => 'Sortierreihenfolge',
+  'Gateway detail page' => 'Detailseite des Gateways',
+  'The payment gateways are implemented as extensions, you\'ll want to enable them from the extensions area first and then manage them from here.' => 'Die Zahlungsgateways werden als Erweiterungen implementiert. Sie sollten sie zuerst im Erweiterungsbereich aktivieren und dann von hier aus verwalten.',
 );

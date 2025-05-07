@@ -16,5 +16,5 @@ if (!defined('MW_PATH')) {
  * @since 1.1
  */
 return array (
-  'Your survey does not have any field defined.' => 'Your survey does not have any field defined.',
+  'Your survey does not have any field defined.' => 'Ihre Umfrage hat keine Felder definiert.',
 );

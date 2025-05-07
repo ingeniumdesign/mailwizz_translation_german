@@ -16,8 +16,8 @@ if (!defined('MW_PATH')) {
  * @since 1.1
  */
 return array (
-  'Category' => 'Category',
-  'Key' => 'Key',
-  'Value' => 'Value',
-  'Is serialized' => 'Is serialized',
+  'Category' => 'Kategorie',
+  'Key' => 'Schlüssel',
+  'Value' => 'Wert',
+  'Is serialized' => 'Ist serialisiert',
 );

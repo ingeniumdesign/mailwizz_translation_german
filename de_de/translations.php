@@ -16,11 +16,11 @@ if (!defined('MW_PATH')) {
  * @since 1.1
  */
 return array (
-  'Category' => 'Category',
-  'Message' => 'Message',
-  'Translation' => 'Translation',
-  'Please make sure you save your changes before navigating away to a different page.' => 'Please make sure you save your changes before navigating away to a different page.',
-  '{name} translations' => '{name} translations',
-  'Translations' => 'Translations',
-  'Language' => 'Language',
+    'Category' => 'Kategorie',
+    'Message' => 'Nachricht',
+    'Translation' => 'Übersetzung',
+    'Please make sure you save your changes before navigating away to a different page.' => 'Bitte stellen Sie sicher, dass Sie Ihre Änderungen speichern, bevor Sie zu einer anderen Seite navigieren.',
+    '{name} translations' => '{name} Übersetzungen',
+    'Translations' => 'Übersetzungen',
+    'Language' => 'Sprache',
 );

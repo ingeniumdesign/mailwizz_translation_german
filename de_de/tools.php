@@ -16,12 +16,12 @@ if (!defined('MW_PATH')) {
  * @since 1.1
  */
 return array (
-  'Back to tools' => 'Back to tools',
-  'Sync' => 'Sync',
-  'Subscribers' => 'Subscribers',
-  'Split' => 'Split',
-  'List' => 'List',
-  'Sync lists' => 'Sync lists',
-  'Split list' => 'Split list',
-  'Please wait while splitting the {list} list into {num} sublists. This might take a while depending on your list size.' => 'Please wait while splitting the {list} list into {num} sublists. This might take a while depending on your list size.',
+    'Back to tools' => 'Zurück zu den Tools',
+    'Sync' => 'Synchronisieren',
+    'Subscribers' => 'Abonnenten',
+    'Split' => 'Teilen',
+    'List' => 'Liste',
+    'Sync lists' => 'Listen synchronisieren',
+    'Split list' => 'Liste teilen',
+    'Please wait while splitting the {list} list into {num} sublists. This might take a while depending on your list size.' => 'Bitte warten Sie, während die Liste {list} in {num} Unterlisten aufgeteilt wird. Dies kann je nach Größe der Liste eine Weile dauern.',
 );

@@ -16,15 +16,15 @@ if (!defined('MW_PATH')) {
  * @since 1.1
  */
 return array (
-  'View zones' => 'View zones',
-  'Zones' => 'Zones',
-  'Create new zone' => 'Create new zone',
-  'Update zone' => 'Update zone',
-  'Confirm zone removal' => 'Confirm zone removal',
-  'Please note that removing this zone will also remove every record that depends on it, such as taxes, customer companies, etc!' => 'Please note that removing this zone will also remove every record that depends on it, such as taxes, customer companies, etc!',
-  'Are you still sure you want to remove this zone? There is no coming back after you do it!' => 'Are you still sure you want to remove this zone? There is no coming back after you do it!',
-  'Zone' => 'Zone',
-  'Country' => 'Country',
-  'Name' => 'Name',
-  'Code' => 'Code',
+    'View zones' => 'Zonen anzeigen',
+    'Zones' => 'Zonen',
+    'Create new zone' => 'Neue Zone erstellen',
+    'Update zone' => 'Zone aktualisieren',
+    'Confirm zone removal' => 'Entfernen der Zone bestätigen',
+    'Please note that removing this zone will also remove every record that depends on it, such as taxes, customer companies, etc!' => 'Bitte beachten Sie, dass das Entfernen dieser Zone auch alle Datensätze entfernt, die davon abhängen, wie Steuern, Kundenunternehmen usw.!',
+    'Are you still sure you want to remove this zone? There is no coming back after you do it!' => 'Sind Sie sicher, dass Sie diese Zone entfernen möchten? Dies kann nicht rückgängig gemacht werden!',
+    'Zone' => 'Zone',
+    'Country' => 'Land',
+    'Name' => 'Name',
+    'Code' => 'Code',
 );

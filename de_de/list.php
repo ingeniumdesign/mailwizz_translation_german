@@ -16,5 +16,5 @@ if (!defined('MW_PATH')) {
  * @since 1.1
  */
 return array (
-  'Your mail list does not have any field defined.' => 'Your mail list does not have any field defined.',
+  'Your mail list does not have any field defined.' => 'Ihre Mailingliste hat kein definiertes Feld.',
 );

@@ -16,11 +16,11 @@ if (!defined('MW_PATH')) {
  * @since 1.1
  */
 return array (
-  '[TEST TEMPLATE] {name}' => '[TEST TEMPLATE] {name}',
-  'Subject' => 'Subject',
-  'Recipient(s)' => 'Recipient(s)',
-  'i.e: a@domain.com, b@domain.com, c@domain.com' => 'i.e: a@domain.com, b@domain.com, c@domain.com',
-  'From email (optional)' => 'From email (optional)',
-  'i.e: me@domain.com' => 'i.e: me@domain.com',
-  '*** TEST TEMPLATE *** {name}' => '*** TEST TEMPLATE *** {name}',
+    '[TEST TEMPLATE] {name}' => '[TESTVORLAGE] {name}',
+    'Subject' => 'Betreff',
+    'Recipient(s)' => 'Empfänger',
+    'i.e: a@domain.com, b@domain.com, c@domain.com' => 'z.B.: a@domain.com, b@domain.com, c@domain.com',
+    'From email (optional)' => 'Von E-Mail (optional)',
+    'i.e: me@domain.com' => 'z.B.: me@domain.com',
+    '*** TEST TEMPLATE *** {name}' => '*** TESTVORLAGE *** {name}',
 );

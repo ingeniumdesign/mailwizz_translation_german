@@ -16,14 +16,14 @@ if (!defined('MW_PATH')) {
  * @since 1.1
  */
 return array (
-  'Forms' => 'Forms',
-  'List embed forms' => 'List embed forms',
-  'Your mail list forms' => 'Your mail list forms',
-  'Embed list forms' => 'Embed list forms',
-  'Subscribe form' => 'Subscribe form',
-  'Unsubscribe form' => 'Unsubscribe form',
-  'Iframe version' => 'Iframe version',
-  'Please type your email address' => 'Please type your email address',
-  'Unsubscribe' => 'Unsubscribe',
-  'Please note, you will have to style the forms below to match the place where you embed them.<br /> You can create better forms by using the <a href="{sdkHref}" target="_blank">PHP-SDK</a> and connect to the provided api.' => 'Please note, you will have to style the forms below to match the place where you embed them.<br /> You can create better forms by using the <a href="{sdkHref}" target="_blank">PHP-SDK</a> and connect to the provided api.',
+  'Forms' => 'Formulare',
+  'List embed forms' => 'Listen-Einbettungsformulare',
+  'Your mail list forms' => 'Ihre Mailinglistenformulare',
+  'Embed list forms' => 'Formulare einbetten',
+  'Subscribe form' => 'Anmeldeformular',
+  'Unsubscribe form' => 'Abmeldeformular',
+  'Iframe version' => 'Iframe-Version',
+  'Please type your email address' => 'Bitte geben Sie Ihre E-Mail-Adresse ein',
+  'Unsubscribe' => 'Abmelden',
+  'Please note, you will have to style the forms below to match the place where you embed them.<br /> You can create better forms by using the <a href="{sdkHref}" target="_blank">PHP-SDK</a> and connect to the provided api.' => 'Bitte beachten Sie, dass Sie die untenstehenden Formulare an den Ort anpassen müssen, an dem Sie sie einbetten.<br /> Sie können bessere Formulare erstellen, indem Sie das <a href="{sdkHref}" target="_blank">PHP-SDK</a> verwenden und sich mit der bereitgestellten API verbinden.',
 );

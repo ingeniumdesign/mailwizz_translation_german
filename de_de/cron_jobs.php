@@ -16,12 +16,12 @@ if (!defined('MW_PATH')) {
  * @since 1.1
  */
 return array (
-  'Campaigns sender, runs each minute.' => 'Campaigns sender, runs each minute.',
-  'Queue handler, runs each minute.' => 'Queue handler, runs each minute.',
-  'Transactional email sender, runs once at 2 minutes.' => 'Transactional email sender, runs once at 2 minutes.',
-  'Bounce handler, runs once at 10 minutes.' => 'Bounce handler, runs once at 10 minutes.',
-  'Feedback loop handler, runs once at 20 minutes.' => 'Feedback loop handler, runs once at 20 minutes.',
-  'Delivery/Bounce processor, runs once at 3 minutes.' => 'Delivery/Bounce processor, runs once at 3 minutes.',
-  'Various tasks, runs each hour.' => 'Various tasks, runs each hour.',
-  'Daily cleaner, runs once a day.' => 'Daily cleaner, runs once a day.',
+  'Campaigns sender, runs each minute.' => 'Kampagnen-Sender, läuft jede Minute.',
+  'Queue handler, runs each minute.' => 'Warteschlangen-Handler, läuft jede Minute.',
+  'Transactional email sender, runs once at 2 minutes.' => 'Transaktionaler E-Mail-Sender, läuft einmal alle 2 Minuten.',
+  'Bounce handler, runs once at 10 minutes.' => 'Bounce-Handler, läuft einmal alle 10 Minuten.',
+  'Feedback loop handler, runs once at 20 minutes.' => 'Feedback-Loop-Handler, läuft einmal alle 20 Minuten.',
+  'Delivery/Bounce processor, runs once at 3 minutes.' => 'Zustellungs-/Bounce-Prozessor, läuft einmal alle 3 Minuten.',
+  'Various tasks, runs each hour.' => 'Verschiedene Aufgaben, läuft jede Stunde.',
+  'Daily cleaner, runs once a day.' => 'Täglicher Reiniger, läuft einmal am Tag.',
 );

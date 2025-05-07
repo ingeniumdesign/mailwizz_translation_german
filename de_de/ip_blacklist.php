@@ -16,11 +16,11 @@ if (!defined('MW_PATH')) {
  * @since 1.1
  */
 return array (
-  'IP address' => 'IP address',
-  'Customer' => 'Customer',
-  'Import from CSV file' => 'Import from CSV file',
-  'Please note, the csv file must contain a header with at least the ip_address column.' => 'Please note, the csv file must contain a header with at least the ip_address column.',
-  'Add a new IP to blacklist' => 'Add a new IP to blacklist',
-  'Please enter a valid IP address!' => 'Please enter a valid IP address!',
-  'Update blacklisted IP' => 'Update blacklisted IP',
+  'IP address' => 'IP-Adresse',
+  'Customer' => 'Kunde',
+  'Import from CSV file' => 'Aus CSV-Datei importieren',
+  'Please note, the csv file must contain a header with at least the ip_address column.' => 'Bitte beachten Sie, dass die CSV-Datei eine Kopfzeile mit mindestens der Spalte ip_address enthalten muss.',
+  'Add a new IP to blacklist' => 'Neue IP zur Blacklist hinzufügen',
+  'Please enter a valid IP address!' => 'Bitte geben Sie eine gültige IP-Adresse ein!',
+  'Update blacklisted IP' => 'Schwarze Liste IP aktualisieren',
 );

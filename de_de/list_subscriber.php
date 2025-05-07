@@ -16,6 +16,6 @@ if (!defined('MW_PATH')) {
  * @since 1.1
  */
 return array (
-  'Create list' => 'Create list',
-  'Update subscriber' => 'Update subscriber',
+  'Create list' => 'Liste erstellen',
+  'Update subscriber' => 'Abonnent aktualisieren',
 );

@@ -16,8 +16,8 @@ if (!defined('MW_PATH')) {
  * @since 1.1
  */
 return array (
-  'A very fast mailer.' => 'A very fast mailer.',
-  'System testing mailer, only simulate sending.' => 'System testing mailer, only simulate sending.',
-  'A fully compliant mailer.' => 'A fully compliant mailer.',
-  'Next generation mailer.' => 'Next generation mailer.',
+  'A very fast mailer.' => 'Ein sehr schneller Mailer.',
+  'System testing mailer, only simulate sending.' => 'Systemtest-Mailer, nur Versand simulieren.',
+  'A fully compliant mailer.' => 'Ein vollständig konformer Mailer.',
+  'Next generation mailer.' => 'Mailer der nächsten Generation.',
 );

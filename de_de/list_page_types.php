@@ -16,14 +16,14 @@ if (!defined('MW_PATH')) {
  * @since 1.1
  */
 return array (
-  'List page types' => 'List page types',
-  'Update page type' => 'Update page type',
-  'Available tags:' => 'Available tags:',
-  'Type' => 'Type',
+  'List page types' => 'Listenseitentypen',
+  'Update page type' => 'Seitentyp aktualisieren',
+  'Available tags:' => 'Verfügbare Tags:',
+  'Type' => 'Typ',
   'Name' => 'Name',
-  'Description' => 'Description',
-  'Default content' => 'Default content',
-  'Full html' => 'Full html',
-  'Email subject' => 'Email subject',
-  'Please note, these pages are the base pages shown in customers area for each list.<br /> The customer has the ability to modify them to fit their needs for any particular list.' => 'Please note, these pages are the base pages shown in customers area for each list.<br /> The customer has the ability to modify them to fit their needs for any particular list.',
+  'Description' => 'Beschreibung',
+  'Default content' => 'Standardinhalt',
+  'Full html' => 'Vollständiges HTML',
+  'Email subject' => 'E-Mail-Betreff',
+  'Please note, these pages are the base pages shown in customers area for each list.<br /> The customer has the ability to modify them to fit their needs for any particular list.' => 'Bitte beachten Sie, dass diese Seiten die Basisseiten sind, die im Kundenbereich für jede Liste angezeigt werden.<br /> Der Kunde hat die Möglichkeit, sie an die Anforderungen einer bestimmten Liste anzupassen.',
 );

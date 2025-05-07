@@ -16,5 +16,5 @@ if (!defined('MW_PATH')) {
  * @since 1.1
  */
 return array (
-  'Forgot password?' => 'Forgot password?',
+  'Forgot password?' => 'Passwort vergessen?',
 );

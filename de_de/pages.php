@@ -16,16 +16,16 @@ if (!defined('MW_PATH')) {
  * @since 1.1
  */
 return array (
-  'View pages' => 'View pages',
-  'Pages' => 'Pages',
-  'Create new page' => 'Create new page',
-  'Update page' => 'Update page',
-  'Page' => 'Page',
-  'Title' => 'Title',
+  'View pages' => 'Seiten anzeigen',
+  'Pages' => 'Seiten',
+  'Create new page' => 'Neue Seite erstellen',
+  'Update page' => 'Seite aktualisieren',
+  'Page' => 'Seite',
+  'Title' => 'Titel',
   'Slug' => 'Slug',
-  'Content' => 'Content',
-  'My page title' => 'My page title',
-  'my-page-title' => 'my-page-title',
-  'This page is inactive, only site admins can see it!' => 'This page is inactive, only site admins can see it!',
-  'Active' => 'Active',
+  'Content' => 'Inhalt',
+  'My page title' => 'Mein Seitentitel',
+  'my-page-title' => 'mein-seitentitel',
+  'This page is inactive, only site admins can see it!' => 'Diese Seite ist inaktiv, nur Seitenadministratoren können sie sehen!',
+  'Active' => 'Aktiv',
 );

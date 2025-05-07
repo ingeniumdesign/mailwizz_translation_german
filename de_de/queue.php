@@ -16,16 +16,16 @@ if (!defined('MW_PATH')) {
  * @since 1.1
  */
 return array (
-  'View queue tasks' => 'View queue tasks',
+  'View queue tasks' => 'Warteschlangenaufgaben anzeigen',
   'ID' => 'ID',
-  'Message ID' => 'Message ID',
-  'Queue' => 'Queue',
-  'User' => 'User',
-  'Customer' => 'Customer',
-  'Acknowledged' => 'Acknowledged',
-  'Reject' => 'Reject',
-  'Requeue' => 'Requeue',
-  'Already acknowledged' => 'Already acknowledged',
-  'Waiting' => 'Waiting',
-  'Processing' => 'Processing',
+  'Message ID' => 'Nachrichten-ID',
+  'Queue' => 'Warteschlange',
+  'User' => 'Benutzer',
+  'Customer' => 'Kunde',
+  'Acknowledged' => 'Bestätigt',
+  'Reject' => 'Ablehnen',
+  'Requeue' => 'Erneut einreihen',
+  'Already acknowledged' => 'Bereits bestätigt',
+  'Waiting' => 'Wartend',
+  'Processing' => 'In Bearbeitung',
 );

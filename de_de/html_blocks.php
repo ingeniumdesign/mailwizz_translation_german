@@ -16,7 +16,7 @@ if (!defined('MW_PATH')) {
  * @since 1.1
  */
 return array (
-  'Html blocks' => 'Html blocks',
-  'Customer area footer' => 'Customer area footer',
-  'Html shown in footer area of the customers' => 'Html shown in footer area of the customers',
+  'Html blocks' => 'HTML Blöcke',
+  'Customer area footer' => 'Kundenbereich Fußzeile',
+  'Html shown in footer area of the customers' => 'HTML, das im Fußbereich der Kunden angezeigt wird',
 );

@@ -16,7 +16,7 @@ if (!defined('MW_PATH')) {
  * @since 1.1
  */
 return array (
-  'Add to queue for bulk check via TheChecker.co' => 'Add to queue for bulk check via TheChecker.co',
-  'Remove from queue for bulk check via TheChecker.co' => 'Remove from queue for bulk check via TheChecker.co',
-  'TheChecker.co' => 'TheChecker.co',
+    'Add to queue for bulk check via TheChecker.co' => 'Zur Warteschlange für die Massenprüfung über TheChecker.co hinzufügen',
+    'Remove from queue for bulk check via TheChecker.co' => 'Aus der Warteschlange für die Massenprüfung über TheChecker.co entfernen',
+    'TheChecker.co' => 'TheChecker.co',
 );

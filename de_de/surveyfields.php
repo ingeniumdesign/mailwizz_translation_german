@@ -16,6 +16,6 @@ if (!defined('MW_PATH')) {
  * @since 1.1
  */
 return array (
-  'New years range field' => 'New years range field',
-  'Are you sure you want to remove this field? There is no coming back from this after you save the changes.' => 'Are you sure you want to remove this field? There is no coming back from this after you save the changes.',
+    'New years range field' => 'Neues Jahresbereichsfeld',
+    'Are you sure you want to remove this field? There is no coming back from this after you save the changes.' => 'Sind Sie sicher, dass Sie dieses Feld entfernen möchten? Es gibt kein Zurück mehr, nachdem Sie die Änderungen gespeichert haben.',
 );

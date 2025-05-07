@@ -16,14 +16,14 @@ if (!defined('MW_PATH')) {
  * @since 1.1
  */
 return array (
-  'View countries' => 'View countries',
-  'Countries' => 'Countries',
-  'Create new country' => 'Create new country',
-  'Update country' => 'Update country',
-  'Confirm country removal' => 'Confirm country removal',
-  'Please note that removing this country will also remove every record that depends on it, such as zones, taxes, customer companies, etc!' => 'Please note that removing this country will also remove every record that depends on it, such as zones, taxes, customer companies, etc!',
-  'Are you still sure you want to remove this country? There is no coming back after you do it!' => 'Are you still sure you want to remove this country? There is no coming back after you do it!',
-  'Country' => 'Country',
+  'View countries' => 'Länder anzeigen',
+  'Countries' => 'Länder',
+  'Create new country' => 'Neues Land erstellen',
+  'Update country' => 'Land aktualisieren',
+  'Confirm country removal' => 'Löschung des Landes bestätigen',
+  'Please note that removing this country will also remove every record that depends on it, such as zones, taxes, customer companies, etc!' => 'Bitte beachten Sie, dass das Entfernen dieses Landes auch alle Datensätze entfernt, die davon abhängen, wie Zonen, Steuern, Kundenunternehmen usw.!',
+  'Are you still sure you want to remove this country? There is no coming back after you do it!' => 'Sind Sie sich immer noch sicher, dass Sie dieses Land entfernen möchten? Es gibt kein Zurück mehr, nachdem Sie es getan haben!',
+  'Country' => 'Land',
   'Name' => 'Name',
   'Code' => 'Code',
 );

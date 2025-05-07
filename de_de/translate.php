@@ -16,12 +16,12 @@ if (!defined('MW_PATH')) {
  * @since 1.1
  */
 return array (
-  'Enable automatic translation' => 'Enable automatic translation',
-  'Enable extensions translation' => 'Enable extensions translation',
-  'Enable writing the missing translations in file.' => 'Enable writing the missing translations in file.',
-  'Whether to translate extensions too.' => 'Whether to translate extensions too.',
-  'Translate extension' => 'Translate extension',
-  'The directory {dirName} must exist and be writable by the web server in order to write the translation files.' => 'The directory {dirName} must exist and be writable by the web server in order to write the translation files.',
-  'Translation extension' => 'Translation extension',
-  'Once enabled, the translate extension will start collecting messages from the application and write them in files if the message is missing from file and the application language is other than english.' => 'Once enabled, the translate extension will start collecting messages from the application and write them in files if the message is missing from file and the application language is other than english.',
+    'Enable automatic translation' => 'Automatische Übersetzung aktivieren',
+    'Enable extensions translation' => 'Übersetzung von Erweiterungen aktivieren',
+    'Enable writing the missing translations in file.' => 'Fehlende Übersetzungen in Datei schreiben aktivieren.',
+    'Whether to translate extensions too.' => 'Ob auch Erweiterungen übersetzt werden sollen.',
+    'Translate extension' => 'Erweiterung übersetzen',
+    'The directory {dirName} must exist and be writable by the web server in order to write the translation files.' => 'Das Verzeichnis {dirName} muss existieren und vom Webserver beschreibbar sein, um die Übersetzungsdateien zu schreiben.',
+    'Translation extension' => 'Übersetzungserweiterung',
+    'Once enabled, the translate extension will start collecting messages from the application and write them in files if the message is missing from file and the application language is other than english.' => 'Sobald aktiviert, beginnt die Übersetzungserweiterung, Nachrichten aus der Anwendung zu sammeln und in Dateien zu schreiben, wenn die Nachricht in der Datei fehlt und die Anwendungssprache nicht Englisch ist.',
 );
